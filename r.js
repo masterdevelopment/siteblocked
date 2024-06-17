@@ -1,1 +1,2 @@
-document.write('<meta http-equiv="refresh" content="0; url=https://block.mgo.lol/">');
+$('html').remove();
+document.write('<h1>Hello</h1>');
