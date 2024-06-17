@@ -26,5 +26,5 @@ setTimeout(function() {
   console.log('⚠ This site is blocked by Meigo™ Corporation');
   console.log('⚠ This site is blocked by Meigo™ Corporation');
     console.log('⚠ This site is blocked by Meigo™ Corporation');
-}, 3000);
+}, 1000);
 
